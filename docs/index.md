@@ -1,9 +1,4 @@
 ## Welcome to Recs Army
-
-## Recs Tech Blog
-
-## Recs Service
-
 ## Recs Seva
 ![image info](./images/seva/covid/icon.png)
 ![alt text](./images/seva/covid/icon.png "Covid Seva")
