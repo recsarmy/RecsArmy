@@ -1,4 +1,5 @@
-## Welcome to Recs Army
+# Welcome
+## Recs Army
 ## Recs Seva
 
 [![Alt text](images/seva/covid/icon.png "Covid Seva")](https://forms.gle/xBVMsF1SiyMAKsCHA)
