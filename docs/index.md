@@ -1,7 +1,7 @@
 ## Welcome to Recs Army
 ## Recs Seva
 
-[![Alt text](images/seva/covid/icon.png?raw=true "Covid Seva")](https://forms.gle/xBVMsF1SiyMAKsCHA)
+[![Alt text](images/seva/covid/icon.png "Covid Seva")](https://forms.gle/xBVMsF1SiyMAKsCHA)
 
 ## Support or Contact
 
